@@ -1,0 +1,10 @@
+body {
+	background-image: url("./Default.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 15px;
+}
+
+#weatherContainer {
+
+}
